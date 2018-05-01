@@ -12,3 +12,6 @@ power up the tsl2561 only if you need it. overwise the BC337 will cut the power.
 #### TSL2561 breakout
 
 remove the onboard LDO we have already 3.3V - this saves some A. 
+
+
+![](https://raw.githubusercontent.com/hggh/tsl2561-low-power-demo/master/TSL2561_Schema.png)
